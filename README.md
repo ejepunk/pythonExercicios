@@ -1,0 +1,2 @@
+# pythonExercicios
+ Estudo de Linguagens
